@@ -1,0 +1,22 @@
+To create an account on Hipergator
+===================================
+
+link: https://www.rc.ufl.edu/get-started/hipergator/request-hipergator-account/
+> Make sure to use your Gator email id and mention Dr. Perez as your supervisor while filling out the form.
+
+To learn basic Linux commands 
+==============================
+
+https://www.geeksforgeeks.org/basic-linux-commands/
+
+Basics of Proteins
+====================
+
+Quick web links:
+1. https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/introduction-to-proteins-and-amino-acids
+2. https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/orders-of-protein-structure
+ 
+Books (available to download as an e-book or can be found a copy in the library)
+1. Biochemistry by Voet and Voet. Chapters: 4, 8, and 9.
+2. Lehninger principles of biochemistry by David L. Nelson, Michael M. Cox. Chapter 3,4,5.
+
